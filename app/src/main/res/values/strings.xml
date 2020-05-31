@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PracticaIntents</string>
+    <string name="title">Practica Intents</string>
+    <string name="txt_nombre">Nombre:</string>
+    <string name="hnt_nombre">Escriba su nombre</string>
+    <string name="txt_apellido">Apellido:</string>
+    <string name="hnt_apellido">Escriba su apellido</string>
+    <string name="txt_numero">Celular:</string>
+    <string name="hnt_numero">Escriba su numero</string>
+    <string name="txt_email">Email:</string>
+    <string name="hnt_email">Escriba su email</string>
+    <string name="txt_direccion">Direccion:</string>
+    <string name="hnt_direccion">Escriba sus coordenadas</string>
+    <string name="txt_camara">Foto:</string>
+    <string name="btn_camara">Capturar</string>
+    <string name="btn_enviar">Enviar</string>
+    <string name="chooser">Escoja la app</string>
+    <string name="dir_descripcion">(Direcciones o coordenadas)</string>
+</resources>
